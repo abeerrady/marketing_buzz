@@ -1,0 +1,78 @@
+{
+  "OnBoarding" : {
+    "BrowseOrderAllProductsAtAnyTime": " Browse & Order All Products at Any Time",
+    "YourPackageInOurSafeHands": "You Package in Our Safe Hands",
+    "HopeYouAreSatisfiedWithOurService": "Hope You Are Satisfied with Our Service  ",
+    "Skip": "Skip",
+    "Next": " Next",
+    "Finish": "Finish"
+  },
+  "Login" : {
+    "WELCOME": "WELCOME ",
+    "PleaseEnterYourEmail": "please enter your Email",
+    "UsernameEmail ": "Username /Email ",
+    "PleaseEnterYourPassword": "please enter your password",
+    "Password": "Password",
+    "ForgetPassword": "Forget Password ?",
+    "Login":"Login",
+    "DontYouHaveAnAccount": "Don't you have an account ?",
+    "Register": "Register"
+  },
+  "SignUp" : {
+    "REGISTER": "REGISTER ",
+    "PleaseEnterYourName": "please enter your Name",
+    "FullName": "Full Name ",
+    "PleaseEnterYourEmail": "please enter your Email",
+    "UsernameEmail": "Username /Email ",
+    "PleaseEnterYourPhone": "please enter your Phone",
+    "PhoneNumber": "Phone Number",
+    "PleaseEnterYourPassword": "please enter your password",
+    "Password": "Password",
+    "SignUp":"Sign Up",
+    "AlreadyAMember": "Already A Member ?",
+    "Login": "Login"
+  },
+  "Home" : {
+    "Categories": "Categories",
+    "ElectronicDevices": "Electronic Devices",
+    "Products": "Products"
+  },
+  "Category" : {
+    "ElectronicDevices": "Electronic Devices"
+  },
+  "Drawer" : {
+    "HiAbeer": "Hi Abeer",
+    "Egypt": " Egypt",
+    "Home": "Home",
+    "Language": " Language",
+    "YourOrder": " Your Order",
+    "Basket": "Basket",
+    "TermsAndConditions": "Terms and Conditions",
+    "GetHelp": " Get help",
+    "AboutUs": "About Us"
+  },
+  "Favorite" : {
+    "ElectronicDevices" : "Electronic Devices"
+  },
+  "Settings" : {
+    "AccountInfo" : "Account Info",
+    "ChangeEmail":"Change Email",
+    "ChangePassword": "Change Password",
+    "Notifications": "Notifications",
+    "LogOut" : "Logout"
+  },
+  "Search" : {
+    "Search" : "Search",
+    "SearchHere":"Search here"
+
+  },
+  "Basket" : {
+    "Black" : "Black",
+    "CheckOut":"CHECKOUT",
+    "Total":"TOTAL"
+  }
+}
+
+
+
+

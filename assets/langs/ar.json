@@ -1,0 +1,64 @@
+{
+  "OnBoarding" : {
+    "BrowseOrderAllProductsAtAnyTime": " تصفح واطلب جميع المنتجات في أي وقت",
+    "YourPackageInOurSafeHands": "أغراضك في أيد أمينة",
+    "HopeYouAreSatisfiedWithOurService": "آمل أن تكون راضيًا عن خدمتنا ",
+    "Skip": "تخطي",
+    "Next": " التالي",
+    "Finish": "إنهاء"
+  },
+  "Login" : {
+    "WELCOME": "مرحبا ",
+    "PleaseEnterYourEmail": "  يرجي إدخال البريد الإلكتروني",
+    "UsernameEmail ": "إسم المستخدم / البريد الإلكتروني",
+    "PleaseEnterYourPassword": "يرجي إدخال كلمة المرور",
+    "Password": "كلمة المرور",
+    "ForgetPassword": "هل نسيت كلمة السر ؟",
+    "Login":"تسجيل دخول",
+    "DontYouHaveAnAccount": " ليس لديك حساب ؟",
+    "Register": "إنشاء حساب"
+  },
+  "SignUp" : {
+    "REGISTER": "إنشاء حساب ",
+    "PleaseEnterYourName": "يرجي إدخال الاسم",
+    "FullName": "الإسم كامل ",
+    "PleaseEnterYourEmail": "يرجي إدخال كلمة المرور",
+    "UsernameEmail": "إسم المستخدم / البريد الإلكتروني",
+    "PleaseEnterYourPhone": "يرجي إدخال رقم الهاتف",
+    "PhoneNumber": " رقم الهاتف",
+    "PleaseEnterYourPassword": "يرجي إدخال كلمة المرور",
+    "Password": "كلمة المرور",
+    "SignUp":"إنشاء حساب",
+    "AlreadyAMember": "انت عضو بالفعل؟",
+    "Login": "تسجيل دخول"
+  },
+  "Home" : {
+    "Categories": "التصنيفات",
+    "ElectronicDevices": "الأجهزة الإلكترونية",
+    "Products": "المنتجات"
+  },
+  "Category" : {
+    "ElectronicDevices": "الأجهزة الإلكترونية"
+  },
+  "Drawer" : {
+    "HiAbeer": "اهلا عبير ",
+    "Egypt": " مصر ",
+    "Home": "الرئيسية",
+    "Language": " اللغه",
+    "YourOrder": " اعادة الطلب",
+    "Basket": "السلة",
+    "TermsAndConditions": "الأحكام والشروط",
+    "GetHelp": " احصل علي المساعدة ",
+    "AboutUs": "حول التطبيق "
+  },
+  "Favorite" : {
+    "ElectronicDevices" : "الأجهزة الإلكترونية"
+  },
+  "Settings" : {
+    "AccountInfo" : "معلومات حسابك",
+    "ChangeEmail":"تغير البريد الإلكتروني",
+    "ChangePassword": "تغيير كلمة السر",
+    "Notifications": "الإشعارات",
+    "LogOut" : "تسجيل خروج"
+  }
+}
